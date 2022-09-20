@@ -1,4 +1,0 @@
-Credit Card Authorization Test Page via PHP
-{"vendor":"VE001-99","trans":"907-741648-296","cc":"6011 1234 4321 1234","name":"John Doe","exp":"12/2019",
-"amount":"654.32","brand":"discover","authorization":"16626","timeStamp":1574583572528,
-"_id":"5dda3d14aed6b1397dfeb92c"}
